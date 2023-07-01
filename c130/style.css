@@ -1,0 +1,111 @@
+h3
+{
+    color: red;
+}
+body{
+    background-color: white;
+}
+#mbl_btn{
+    width: 20%;
+}
+responsive{
+display: block;
+max-width: 50%;
+height: 50px;
+}
+
+
+.chris {
+    background: #949494;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+.chris {
+    background: #949494;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+.champ {
+    background: pink;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+.lio {
+    background:blue;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+.fighter{
+    background: palegreen;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+.sports {
+    background: #949494;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+element.style {
+}
+b {
+    color: purple;
+}
+b, strong {
+    font-weight: 700;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+element.style {
+}
+span {
+    color: red;
+    font-size: 16px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+h4{
+    color: white;
+}
+
+element.style {
+}
+.result {
+    box-shadow: 5px 5px 18px grey;
+    letter-spacing: 2px;
+    background: #F2BAC9;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid grey;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
